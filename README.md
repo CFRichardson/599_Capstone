@@ -17,8 +17,7 @@
 - [Solution Details](#solution-details)
 - [Concluding Summary](#concluding-summary)
 - [Call to Action/Contributors](#call-to-action/contributors)
-
-
+- [Link to Data Sets](#link-to-data-sets)
 
 
 # Business Background
@@ -57,7 +56,7 @@ Please reach out to us for further details:
 * Sing, Ashutosh
     * :email: (asingh@sandiego.edu)
 
-# Data Link via Google drive
-[link](https://drive.google.com/drive/folders/1bsstUmLAC_geoznV8jxQTEC87hw_gPsD?usp=share_link)<br>
+# Link to Data Sets
+Data Link via Google drive<br>
 https://drive.google.com/drive/folders/1bsstUmLAC_geoznV8jxQTEC87hw_gPsD?usp=share_link <br><br>
 Please contact christopherr@sandiego.edu if you encounter any difficulties accessing the data.  Thank you.
