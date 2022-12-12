@@ -1,0 +1,8 @@
+field,field_type,description,possible_values
+stop_id,int64,unique identifer for stop,
+pid,int64,unique identifer for person on a stop,
+reason_for_stop,str,primary reason the officer stopped the person,https://oag.ca.gov/sites/all/files/agweb/pdfs/ripa/stop-data-reg-final-text-110717.pdf?
+reason_for_stopcode,str,specific violation if reason for stop is traffic violation or reasonable suspicion of criminal activity (code),see reasonForStopCodeText attribute for descriptions of codes
+reason_for_stop_code_text,str,specific violation if reason for stop is traffic violation or reasonable suspicion of criminal activity (description),
+reason_for_stop_detail,str,detailed primary reason the officer stopped the person,https://oag.ca.gov/sites/all/files/agweb/pdfs/ripa/stop-data-reg-final-text-110717.pdf?
+reason_for_stop_explanation,str,brief narrative explaining the reason for the stop,

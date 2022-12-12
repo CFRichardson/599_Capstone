@@ -1,0 +1,4 @@
+field,field_type,description,possible_values
+stop_id,int64,unique identifer for stop,
+pid,int64,unique identifer for person on a stop,
+race,str,officer's perception of the race(s) of the person stopped,https://oag.ca.gov/sites/all/files/agweb/pdfs/ripa/stop-data-reg-final-text-110717.pdf?
