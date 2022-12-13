@@ -28,7 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As America becomes even more ethnically diversified than it already is, it is more crucial than ever that we understand police patterns of behavior to create programs and policies to construct harmonious coexistence. By utilizing police RIPA reports, alongside weather, plus demographic and socio-economics of the area of the stop, we may be able to predict the reason for stop and predict whether those stops are based on races and possible outcomes.
 
 # Summary of the Findings
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on analysis, Black drivers are pulled over roughly 3.23x more than their White and Hispanic counterparts.  In contrast, Asians are pulled over 1/4 less the time in comparison to their White and Hispanic counterparts.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on analysis, Black drivers are pulled over roughly 3.23x more than their White and Hispanic counterparts.  In contrast, Asians are pulled over 1/4 less in comparison to their White and Hispanic counterparts.  
 
 # Business Questions
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Traffic stops are the most common interaction between police and the public, accounting for roughly 40% of all contacts. In conducting their jobs, police officers exercise a great deal of discretion when stopping, arresting, and searching individuals. An officer can use a person's race as one of several factors used to identify a suspect, but race cannot be the sole reason for an officer's actions or suspicion of criminal activity.
